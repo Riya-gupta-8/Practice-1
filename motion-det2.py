@@ -4,7 +4,7 @@ import cv2   # pip install opencv-python
 import time 
 #importing mail module
 from send_mail import prepare_and_send_email
-
+#jfhjhjkghkjfghjkhgjghtjhgtuhguthgtuh
 src = "http://192.168.29.53:4747/video"
 #start the webcam
 cap = cv2.VideoCapture(src)
